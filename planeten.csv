@@ -1,0 +1,10 @@
+planet;Durchmesser;Entfernung;Schwerkraft (m/s2);Tageslänge (Stunden);Mittlere Temperatur;Monde;Masse (10^24kg)
+Die Sonne;1392700;0;274;;;;
+Merkur;4879;57;3,7;4222,6;167;0;0,33
+Venus;12104;108;8,9;2802;464;0;4,87
+Die Erde;12756;149;9,8;24;15;1;5,97
+Mars;6792;228;3,7;24,7;-65;2;0,642
+Jupiter;142984;780;23,1;9,9;-110;79;1898
+Saturn;120536;1437;9;10,7;-140;82;568
+Uranus;51118;2871;8,7;17,2;-195;27;86.8
+Neptun;49528;4530;11;16,1;-200;14;102
